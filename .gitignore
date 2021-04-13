@@ -1,0 +1,8 @@
+# ignoring venv directories
+venv/
+# ignoring IDEA files
+.idea/
+# ignoring txt files
+*.txt
+#ignore pyc files
+*.pyc
